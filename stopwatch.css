@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    background-color: rgb(160, 160, 57);
+    margin: 20px 130px;
+    text-align: center;
+    padding: 20px;  
+    height: 100%; 
+}
+.heading{
+    text-decoration: underline;
+}
+.box{
+    margin: 0px,100px;
+    background-color: bisque;
+}
+.btn-sets{ 
+    background-color: bisque;
+    padding: 50px;
+
+}
+#laps{
+    margin-top: 30px;
+    height: 170px;
+    scroll-behavior: smooth;
+    text-align: center;
+    font-size: 1.8rem;
+    color: green;
+    list-style: none;
+    margin: 0px 130px;
+   
+}
+.btn-sets button{
+    width:130px;
+    font-size: 1.5rem;
+    background-color: green;
+    border: 5px solid black;
+    font-weight: 700;
+    padding: 20px;
+    border-radius: 50px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+h1{
+    font-size: 2.5rem;
+    font-weight: 600;
+    padding: 30px;
+    letter-spacing: 1px;
+}
